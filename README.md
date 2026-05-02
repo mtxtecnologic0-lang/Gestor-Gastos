@@ -30,7 +30,7 @@ Aplicación web desarrollada con Next.js y TypeScript para la gestión de gastos
 
 ```bash
 # Clonar repositorio
-git clone <REPO_URL>
+git clone https://github.com/mtxtecnologic0-lang/Gestor-Gastos.git
 
 # Instalar dependencias
 npm install
