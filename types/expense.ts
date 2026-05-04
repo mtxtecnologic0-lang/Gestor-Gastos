@@ -15,7 +15,7 @@ export interface Expense {
   description: string;
   amount: number;
   category: Category;
-  date: string; // ISO string
+  date: string; 
   createdAt: string;
 }
 
