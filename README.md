@@ -6,7 +6,7 @@ Aplicación web desarrollada con Next.js y TypeScript para la gestión de gastos
 ## 🚀 Features
 
 * Crear, editar y eliminar gastos
-* Persistencia de datos en localStorage / IndexedDB
+* Persistencia de datos en localStorage / IndexedDB.
 * Dashboard con métricas dinámicas
 * Visualización de datos con gráficas
 * Filtros por categoría, fecha y búsqueda
